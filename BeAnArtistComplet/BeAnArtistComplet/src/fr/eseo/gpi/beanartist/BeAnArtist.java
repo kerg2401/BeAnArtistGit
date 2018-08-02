@@ -8,7 +8,7 @@ public class BeAnArtist {
   public BeAnArtist() {
     FenetreBeAnArtist f = FenetreBeAnArtist.getInstance();
     f.setVisible(true);
-    //BOnjoureff
+    //BOnjoureffs
   }
 
   public static void main(String[] args) {
