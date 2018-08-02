@@ -12,7 +12,7 @@ public class FenetreBeAnArtistTest {
     testDefaultConstructor();
   }
 
-  // Méthode de test
+  // Mï¿½thode de test avec un double poney
   public void testDefaultConstructor() {
     FenetreBeAnArtist f = FenetreBeAnArtist.getInstance();
     Rectangle rect1 = new Rectangle();
