@@ -12,7 +12,7 @@ public class FenetreBeAnArtistTest {
     testDefaultConstructor();
   }
 
-  // M�thode de test avec un doublepone
+  // M�thode de test avec un doubleponey
   
   public void testDefaultConstructor() {
     FenetreBeAnArtist f = FenetreBeAnArtist.getInstance();
