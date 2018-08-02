@@ -12,6 +12,7 @@ public class ActionChoisirCouleur extends AbstractAction {
   
   public ActionChoisirCouleur() {
     super(NOM_ACTION);
+    //dsoijozijf
   }
   
   public void actionPerformed(ActionEvent e) {
