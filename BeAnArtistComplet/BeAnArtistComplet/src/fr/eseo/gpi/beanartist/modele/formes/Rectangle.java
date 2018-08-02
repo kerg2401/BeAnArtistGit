@@ -77,5 +77,4 @@ public class Rectangle extends Forme {
   public boolean contient(Point position) {
     return contient(position.getX(), position.getY());
   }
-//Hיייייייייייייייייייייייייייייי
 }
