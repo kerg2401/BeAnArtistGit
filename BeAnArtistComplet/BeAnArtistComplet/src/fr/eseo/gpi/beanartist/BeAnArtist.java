@@ -8,7 +8,7 @@ public class BeAnArtist {
   public BeAnArtist() {
     FenetreBeAnArtist f = FenetreBeAnArtist.getInstance();
     f.setVisible(true);
-    //Comment allez-vous ?
+    //
   }
 
   public static void main(String[] args) {
